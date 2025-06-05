@@ -62,12 +62,12 @@ These are *completely optional* but demonstrate initiative:
 
 ## 🚀 How to Submit
 
-1. Create a **GitHub repository** (can be private)
-2. Push your completed project
-3. Include a short `README.md` with:
-   - Deployment or testing instructions
-   - Any assumptions, challenges, or learnings
-4. Share access with: `you@example.com` (adjust to interviewer’s actual email)
+1. **Fork this repository** to your own GitHub account (you can keep it private).
+2. Complete the assignment in your forked repository.
+3. Update this `README.md` with:
+  - Deployment or testing instructions
+  - Any assumptions, challenges, or learnings
+4. Share access to your fork with: `thoover@fortresstech.io`.
 
 ---
 
