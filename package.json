@@ -1,0 +1,21 @@
+{
+	"name": "cdk-starter",
+	"version": "0.1.0",
+	"bin": {
+		"cdk-starter": "bin/my-stack.ts"
+	},
+	"scripts": {
+		"build": "tsc",
+		"watch": "tsc -w",
+		"cdk": "cdk"
+	},
+  "dependencies": {
+    "aws-cdk-lib": "^2.0.0",
+    "constructs": "^10.0.0"
+  },
+	"devDependencies": {
+		"aws-cdk": "^2.0.0",
+		"typescript": "^4.0.0",
+		"ts-node": "^10.0.0"
+	}
+}
